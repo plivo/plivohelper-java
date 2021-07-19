@@ -1,5 +1,8 @@
 # Change Log
 
+## [5.1.1](https://github.com/plivo/plivo-java/tree/v5.1.1) (2021-07-19)
+- Change default request timeout value to 5.
+
 ## [5.1.0](https://github.com/plivo/plivo-java/tree/v5.1.0) (2021-07-14)
 - Powerpack UUID has been included to the response for the [list all messages API](https://www.plivo.com/docs/sms/api/message/list-all-messages/) and the [get message details API](https://www.plivo.com/docs/sms/api/message#retrieve-a-message).
 - Support for filtering messages by Powerpack UUID has been added to the [list all messages API](https://www.plivo.com/docs/sms/api/message#list-all-messages).
